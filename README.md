@@ -1,5 +1,4 @@
-# Swift language support in Atom
+# Swift 3 language support in Atom
 
-Adds syntax highlighting to Swift files in Atom.
+Adds syntax highlighting to Swift 3 files in Atom.
 
-**NOTE**: I am currently looking for a new maintainer for this package.
