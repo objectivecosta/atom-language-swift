@@ -13,11 +13,19 @@
   }
   {
     'name': 'keyword.declaration.swift'
+<<<<<<< HEAD
+    'match': '\\b(class|deinit|enum|extension|final|import|init|internal|let|private|protocol|public|static|struct|subscript|typealias|var|open|fileprivate)\\b'
+  }
+  {
+    'name': 'keyword.statement.swift'
+    'match': '\\b(break|case|continue|default|do|else|fallthrough|if|in|for|return|switch|where|while|guard|defer|try|catch|throws|rethrows|throw)\\b'
+=======
     'match': '\\b(class|deinit|enum|extension|import|init|inout|internal|let|operator|private|protocol|public|static|struct|subscript|typealias|var|lazy)\\b'
   }
   {
     'name': 'keyword.statement.swift'
     'match': '\\b(break|case|continue|default|defer|do|else|fallthrough|for|guard|if|in|repeat|return|switch|where|while)\\b'
+>>>>>>> freebroccolo/master
   }
   {
     'name': 'keyword.expressions-and-types.swift'
