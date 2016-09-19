@@ -13,7 +13,7 @@
   }
   {
     'name': 'keyword.declaration.swift'
-    'match': '\\b(class|deinit|enum|extension|final|import|init|internal|let|private|protocol|public|static|struct|subscript|typealias|var|open|fileprivate)\\b'
+    'match': '\\b(class|deinit|enum|extension|func|final|import|init|internal|let|private|protocol|public|static|struct|subscript|typealias|var|open|fileprivate)\\b'
   }
   {
     'name': 'keyword.statement.swift'
